@@ -1,5 +1,5 @@
 # colorCircle
 
-colorCircle
-left-click to create circle
+colorCircle<br>
+left-click to create circle<br>
 using p5.js
